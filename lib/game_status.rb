@@ -83,4 +83,3 @@ if draw?(board) == true
   puts "Congratulations #{winner(board)}!"
 end
 end
-end
